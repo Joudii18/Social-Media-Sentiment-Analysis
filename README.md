@@ -1,4 +1,4 @@
-<img width="554" height="94" alt="image" src="https://github.com/user-attachments/assets/4fb918b5-9ff4-494b-839b-bd6b216ca8b8" /><img width="640" height="111" alt="image" src="https://github.com/user-attachments/assets/52753d6d-db64-41f0-93a0-63d3363f2019" /><img width="646" height="94" alt="image" src="https://github.com/user-attachments/assets/1fc9830f-d38c-4ffe-a368-3086e574c4a6" /># Social Media Sentiment Analysis
+# Social Media Sentiment Analysis
 
 ## 🚀 Project Overview
 1. Purpose: Understand user interactions and sentiments on social media.
